@@ -21,7 +21,7 @@
         <a href="https://alisolanki.com/">
             <img src="https://avatars.githubusercontent.com/u/110019310?s=400&u=09576329fa4593646be792072aec2a539b925462&v=4" width="100px;" alt="Ali Solanki"/>
             <br />
-            <sub><b>Jay Shivare</b></sub>
+            <sub><b>Jay Shivare 🍉 </b></sub>
         </a>
     </td>
      <td align="center">
